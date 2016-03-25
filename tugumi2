@@ -12,7 +12,7 @@ ef	ぇ
  
 et	な
 .h	に
-.e	ぬ
+.s	ぬ
 .d	ね
 en	の
 
@@ -87,7 +87,7 @@ ic	ま
 ig	み
 il	む
 if	め
-ir	も   
+ir	も
 
 yc	ぱ
 yg	ぴ
@@ -95,7 +95,7 @@ yl	ぷ
 yf	ぺ
 yr	ぽ
 
-yh	や     
+yh	や
 yn	よ
 ys	ゆ
 
@@ -133,7 +133,7 @@ ef	ぇ
 
 te	な
 h.	に
-e.	ぬ
+s.	ぬ
 d.	ね
 ne	の
 
@@ -208,7 +208,7 @@ ci	ま
 gi	み
 li	む
 fi	め
-ri	も   
+ri	も
 
 cy	ぱ
 gy	ぴ
@@ -216,7 +216,7 @@ ly	ぷ
 fy	ぺ
 ry	ぽ
 
-hy	や     
+hy	や
 ny	よ
 sy	ゆ
 
@@ -239,7 +239,7 @@ si	ゅ
 - 
 -te	ナ
 -h.	ニ
--e.	ヌ
+-es	ヌ
 -d.	ネ
 -ne	ノ
 - 
@@ -301,7 +301,7 @@ si	ゅ
 -so	ツ
 -do	テ
 -no	ト
--ッ	hr
+-hr	ッ
 - 
 -co	ダ
 -go	ヂ
@@ -314,7 +314,7 @@ si	ゅ
 -gi	ミ
 -li	ム
 -fi	メ
--ri	モ   
+-ri	モ
 - 
 -cy	パ
 -gy	ピ
@@ -322,7 +322,7 @@ si	ゅ
 -fy	ペ
 -ry	ポ
 - 
--hy	ヤ     
+-hy	ヤ
 -ny	ヨ
 -sy	ユ
 - 
@@ -344,7 +344,7 @@ si	ゅ
 - 
 -et	ナ
 -.h	ニ.
--.e	ヌ
+-.s	ヌ
 -.d	ネ
 -en	ノ
 - 
@@ -419,7 +419,7 @@ si	ゅ
 -ig	ミ
 -il	ム
 -if	メ
--ir	モ   
+-ir	モ
 - 
 -yc	パ
 -yg	ピ
@@ -427,7 +427,7 @@ si	ゅ
 -yf	ペ
 -yr	ポ
 - 
--yh	ヤ     
+-yh	ヤ
 -yn	ヨ
 -ys	ユ
 - 
